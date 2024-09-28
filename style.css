@@ -1,0 +1,130 @@
+.maindiv {
+    display: flex;
+    /* background-image: url('yp.jpg'); */
+    margin: 55px;
+}
+
+.para {
+    margin-top: 70px;
+}
+
+.diva {
+    border: 5px solid red;
+    height: 250px;
+    width: 440px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+.divb {
+    border: 5px solid red;
+    height: 100px;
+    width: 440px;
+    background-color: black;
+    border-radius: 20px;
+    margin-top: 50px;
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+.circle1 {
+    border: 5px solid rgb(80, 189, 36);
+    background-color: rgb(160, 45, 135);
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    text-align: center;
+    margin-top: 30%;
+}
+
+.head2 {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.form {
+    color: red;
+}
+
+.div2 {
+    border: 7px dotted red;
+    text-align: center;
+    width: 500px;
+    margin-top: 50px;
+}
+
+.main {
+    display: flex;
+    /* justify-content: center; */
+    /* background-image: url('yp.jpg'); */
+}
+
+.menu {
+    height: 80px;
+    width: 400px;
+    background-color: black;
+    color: white;
+    border: 5px solid rgb(43, 38, 131);
+    border-radius: 30px;
+    flex-wrap: wrap;
+    margin-left: 28%;
+    font-size: 40px;
+}
+
+.div3 {
+    display: flex;
+    justify-content: space-between;
+    /* background-image: url('yp.jpg'); */
+}
+
+.head4 {
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+
+.div33 {
+    border: 3px solid green;
+    height: 330px;
+    width: 350px;
+    background-color: aqua;
+    border-radius: 10px;
+    font-size: larger;
+    /* text-align: center; */
+}
+
+body {
+    background-image: url('hp.jpg');
+    border-radius: 5px;
+    opacity: 50px;
+    border: 5px solid whitesmoke;
+}
+
+.vanku {
+    border: 5px solid green;
+    height: 200px;
+    width: 300px;
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 90px;
+    margin-top: 100px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: yellow;
+}
+
+.heading1 {
+    display: flex;
+}
+
+footer {
+    text-align: end;
+    border: 2px solid red;
+}
